@@ -7,6 +7,6 @@ References:
 1. Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, Richard Socher, EMNLP 2013;
 2. Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, Richard Socher, NIPS 2011;
 
-To refer to this work use:
-=========================
+To refer this work use:
+--------------------------
 http://conference.bupt.edu.cn/rl2014/file/rl2014_submission_6.pdf
