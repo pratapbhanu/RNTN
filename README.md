@@ -7,7 +7,7 @@ References:
 1. Recursive Deep Models for Semantic Compositionality Over a Sentiment Treebank, Richard Socher, EMNLP 2013;
 2. Dynamic Pooling and Unfolding Recursive Autoencoders for Paraphrase Detection, Richard Socher, NIPS 2011;
 
-To refer this work cite:
+To refer this work:
 --------------------------
 Paass, Gerhard, and Bhanu Pratap. "Semantic Role Labeling Using Deep Neural Networks."
 
